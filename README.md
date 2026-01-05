@@ -29,7 +29,6 @@ It explores the impact of manipulated digital media on individuals and society, 
 🛠 Areas of Learning Covered
 
 • Cybersecurity Fundamentals  
-• SOC Concepts & Incident Response  
 • Web Application Security  
 • SQL Injection Attacks  
 • Digital Forensics  
